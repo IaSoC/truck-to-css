@@ -4,7 +4,7 @@ Yuki: "Driving truck to smash css is kinda of...venting emotions."
 
 ---
 
-This project is a practice to RegEx, Context Recognition, and Random Generation.\
+This project is a practice to RegEx, Context Recognition, and Random Generation.
 
 ## ⚠️ THE "CATHARTIC DESTRUCTION" DISCLAIMER
 
@@ -43,13 +43,17 @@ and some high-efficiency programming language for offline trashing.
 
 **Remember to commit your last state in order to rollback.**
 
-You can easily click the button on webpage, or execute: `truck-to-css --level [number] --seed [string] sytle.css`.
+You can easily click the button on webpage, (under development)
+
+or execute: `truck-to-css --level [number] --seed [string] sytle.css`.
 
 After trashing and admiring, type:
 
 ```bash
 git restore
 ```
+
+Forget to commit? We have style.be4.css backup avaliable.
 
 ## Stacks?
 
